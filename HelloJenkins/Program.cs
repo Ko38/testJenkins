@@ -12,7 +12,7 @@ namespace HelloJenkins
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jenkins! Hello World");
+            Console.WriteLine("Hello Jenkins!");
             JArray array = new JArray();
             array.Add("Manual text");
             array.Add(new DateTime(2000, 5, 23));

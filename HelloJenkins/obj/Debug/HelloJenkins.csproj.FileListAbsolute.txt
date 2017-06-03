@@ -4,12 +4,3 @@ D:\Programming\Git\testJenkins\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.
 D:\Programming\Git\testJenkins\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csprojResolveAssemblyReference.cache
 D:\Programming\Git\testJenkins\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
 D:\Programming\Git\testJenkins\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe.config
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\HelloJenkins.pdb
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\Newtonsoft.Json.dll
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\nunit.framework.dll
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\Newtonsoft.Json.xml
-D:\Programming\Git\testJenkins\HelloJenkins\bin\Debug\nunit.framework.xml
-D:\Programming\Git\testJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
-D:\Programming\Git\testJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb
