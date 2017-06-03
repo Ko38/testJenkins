@@ -27,13 +27,4 @@ namespace HelloJenkins
         }
     }
 
-    [TestFixture]
-    public class Test
-    {
-        [Test]
-        public void TestFunc()
-        {
-            Assert.AreEqual(Program.Test(), true);
-        }
-    }
 }
