@@ -17,7 +17,7 @@ namespace HelloJenkins
             array.Add("Manual text");
             array.Add(new DateTime(2000, 5, 23));
             Console.WriteLine(array[0]);
-            Console.WriteLine(array[1]);
+            Console.WriteLine(array[1]);a
             Console.ReadLine();
         }
 
