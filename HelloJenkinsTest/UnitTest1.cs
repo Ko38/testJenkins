@@ -10,7 +10,7 @@ namespace HelloJenkinsTest
         public void TestMethod1()
         {
 
-            Assert.AreEqual(Program.Test(), true);	
+            Assert.AreEqual(Program.Test(), false);	
         }
     }
 }
