@@ -12,7 +12,6 @@ namespace HelloJenkins
     {
         public static void Main(string[] args)
         {
-			int x;
             Console.WriteLine("Hello Jenkins!");
             JArray array = new JArray();
             array.Add("Manual text");
